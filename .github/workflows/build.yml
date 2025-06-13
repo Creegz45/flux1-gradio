@@ -27,4 +27,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/${{ github.repository_owner }}/flux1-gradio:latest
+          tags: ghcr.io/creegz45/flux1-gradio:latest
+
